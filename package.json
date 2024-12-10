@@ -1,0 +1,12 @@
+{
+  "name": "currency_converter",
+  "version": "1.0.0",
+  "description": "To further illustrate the component based structure and state handling in React. We will go through another demo. This time, we will build a simple currency converter application that will convert between US dollars and Euros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
